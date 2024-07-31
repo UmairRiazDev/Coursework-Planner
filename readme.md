@@ -19,6 +19,8 @@ Each module has a module repo. The coursework for each module is added as issues
 
 We are building a tool to automate this process, but for now you will have to do it manually. We all use the [Kamino Clone Button](https://chrome.google.com/webstore/detail/kamino/ffdebockfdjileaojbbccofhgncmioaf?hl=en) Chrome extension to make this easier, so you could try that.
 
+Note: If you are not able to clone repo issues. Then go to token settings -> repository permissions -> set `Administration - Access: Read and write` `issues - Access: Read-only` and `Metadata - Access: Read-only`.
+
 Copy issues for each week or at most for each module. The coursework content is updated frequently, you will not have the most up to date tasks on your board if you copy all modules at once.
 
 ## 3. Refine your tickets and add them to your project board
